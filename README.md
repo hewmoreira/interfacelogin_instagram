@@ -1,4 +1,4 @@
-# Clone da Interace de Re-login do Instagram
+# Clone da Interface de Re-login do Instagram
 
 ## Descrição
 O projeto teve objetivo de reconstruir a página inicial de login do Instagram, abordando conceitos sobre CSS utilizando Flexbox, metodologia de posicionamento de elementos em tela como conceitos de responsavidade.
